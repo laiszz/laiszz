@@ -2,7 +2,7 @@
 
 ### Sejam muito bem vindes ao meu perfil!
 
-- 🤓 Sou professora particular de exatas
+- 📏 Sou professora particular de exatas
 - 🖥️ Estou fazendo o bootcamp de Desenvolvedorxs Java na Generation
 - 🔭 Tenho interesse em back-end
 - 😊 Meus pronomes são ela/dela
