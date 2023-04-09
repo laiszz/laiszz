@@ -26,14 +26,16 @@
 
 ### Repositórios da Generation
 <div style="display: inline_block"><br>
-	<a href src="https://github.com/laiszz/java"><img align="center" height="50" width="100" src="Imagens/Java.jpg"></a></img>
-	<a href src="https://github.com/laiszz/mySQL"><img align="center" height="50" width="100" src="Imagens/MySQL.jpg"></a>
+	<a href="https://github.com/laiszz/java">
+	<img align="center" height="50" width="100" src="Imagens/Java.jpg">
+	<a href="https://github.com/laiszz/mySQL">
+	<img align="center" height="50" width="100" src="Imagens/MySQL.jpg">
 </div>
 	
 ### Repositórios de Projetos Pessoais
 <div>
-	<a href src="https://github.com/laiszz/AlgebraLinear"><img align="center" height="50" width="100" src="Imagens/AlgLin.jpg"></a>
-	<a href src="https://github.com/laiszz/VPython"><img align="center" height="50" width="100" src="Imagens/SimGraf.jpg"></a>
+	<a href="https://github.com/laiszz/AlgebraLinear"><img align="center" height="50" width="100" src="Imagens/AlgLin.jpg"></a>
+	<a href="https://github.com/laiszz/VPython"><img align="center" height="50" width="100" src="Imagens/SimGraf.jpg"></a>
 </div>
 	
 ### Contatos
