@@ -23,6 +23,18 @@
 	<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+### Repositórios da Generation
+<div style="display: inline_block"><br>
+	<img align="center" height="50" width="100"><a href src="https://github.com/laiszz/java">JAVA</a></img>
+	<a href src="https://github.com/laiszz/mySQL">MySQL</a>
+</div>
+	
+### Repositórios de Projetos Pessoais
+<div>
+	<a href src="https://github.com/laiszz/AlgebraLinear">Álgebra Linear</a><br>
+	<a href src="https://github.com/laiszz/VPython">Simulações e Gráficos</a><br>
+</div>
 	
 ### Contatos
 <div> 
