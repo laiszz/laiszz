@@ -32,6 +32,8 @@
 	<img align="center" height="50" width="100" src="Imagens/MySQL.jpg">
 	<a href="https://github.com/projetoPetFood/petfood">
 	<img align="center" height="50" width="100" src="Imagens/PetFood.jpg">
+	<a href="https://github.com/laiszz/blog_pessoal">
+	<img align="center" height="50" width="100" src="Imagens/Blog Pessoal.jpg">
 </div>
 	
 ### Repositórios de Projetos Pessoais
